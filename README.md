@@ -1,7 +1,7 @@
 
 # Blazor Synchronized Charts
 
-A Blazor application demonstrating synchronized chart interactions using Syncfusion Charts and .NET 8. This project showcases how to synchronize crosshair, tooltip, selection, and zoom behaviors across multiple charts.
+A Blazor application demonstrating synchronized chart interactions using Blazor Chart component. This project showcases how to synchronize crosshair, tooltip, selection, and zoom behaviors across multiple charts.
 
 ## Overview
 

@@ -1,17 +1,13 @@
 
 # Blazor Synchronized Charts
 
-A Blazor application demonstrating synchronized chart interactions using Blazor Chart component. This project showcases how to synchronize crosshair, tooltip, selection, and zoom behaviors across multiple charts.
+A Blazor application demonstrating synchronized chart interactions using [Blazor Chart](https://www.syncfusion.com/blazor-components/blazor-charts) component. This project showcases how to synchronize crosshair, tooltip, selection, and zoom behaviors across multiple charts.
 
 ## Overview
 
-This sample demonstrates synchronized interactions in  [Blazor Charts](https://www.syncfusion.com/blazor-components/blazor-charts). When you interact with one chart (hover, select, zoom), the same interaction is mirrored across all synchronized charts.
-
-The sample uses currency exchange rate data (USD to EUR, JPY, SGD, INR) spanning February to August 2023.
+This sample demonstrates synchronized interactions in  Blazor Charts component. When you interact with one chart (hover, select, zoom), the same interaction is mirrored across all synchronized charts.
 
 ## Features
-
-Four synchronization modes are available:
 
 * **Crosshair**  - Synchronizes crosshair position across charts when hovering 
 * **Tooltip** - Shows synchronized tooltips on all charts simultaneously 
@@ -52,6 +48,7 @@ dotnet run
 
 ## References
 
-- [Syncfusion Blazor Charts Documentation](https://blazor.syncfusion.com/documentation/chart/chart-events)
-- [Syncfusion Blazor Components](https://www.syncfusion.com/blazor-components)
-- [.NET Blazor Documentation](https://learn.microsoft.com/aspnet/core/blazor/)
+- https://blazor.syncfusion.com/documentation/chart/cross-hair-and-track-ball
+- https://blazor.syncfusion.com/documentation/chart/selection
+- https://blazor.syncfusion.com/documentation/chart/zooming
+- https://blazor.syncfusion.com/documentation/chart/tool-tip
